@@ -1,0 +1,2 @@
+# wssapi
+WebSite Screenshot API
