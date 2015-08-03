@@ -1,4 +1,3 @@
-# wssapi
 # Simple WebSite Screenshot API
 
 This API is a simple tool to extract and resize webpage screenshots. It uses:
@@ -8,7 +7,7 @@ This API is a simple tool to extract and resize webpage screenshots. It uses:
 - [Sharp](https://github.com/lovell/sharp) with libvips library for resizing screenshots accordingly
 - cache feature; screenshots are scraped only once every 100 days by default
 
-## Using [wssapi](http://wssapi.adrianharabula.com)
+## Using wssapi
 
 To fetch a website screenshot use [wssapi.adrianharabula.com](http://wssapi.adrianharabula.com) with these GET parameters:
 
