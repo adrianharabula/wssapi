@@ -3,7 +3,7 @@
 This API is a simple tool to extract and resize webpage screenshots. It uses:
 
 - *PHP* for listening webssite screenshot requests
-- [CasperJS](casperjs.org) with [PhantomJS](phantomjs.org) and *Webkit* engine for rendering webpages
+- [CasperJS](http://casperjs.org) with [PhantomJS](http://phantomjs.org) and *Webkit* engine for rendering webpages
 - [Sharp](https://github.com/lovell/sharp) with libvips library for resizing screenshots accordingly
 - cache feature; screenshots are scraped only once every 100 days by default
 
